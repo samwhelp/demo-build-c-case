@@ -11,7 +11,7 @@
 
 * [Demo/src/main.c](Demo/src/main.c)
 * [Include/sum.h](Include/sum.h)
-* [Lib/sum.c](Include/sum.c)
+* [Lib/sum.c](Lib/sum.c)
 
 ### From
 
