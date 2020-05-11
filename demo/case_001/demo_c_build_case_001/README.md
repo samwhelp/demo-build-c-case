@@ -9,7 +9,7 @@
 
 ### File
 
-* [Demo/src/main.c](Demo/src/main.c)
+* [Demo/src/test.c](Demo/src/test.c)
 * [Include/sum.h](Include/sum.h)
 * [Lib/sum.c](Include/sum.c)
 
