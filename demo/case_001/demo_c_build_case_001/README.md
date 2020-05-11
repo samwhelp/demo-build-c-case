@@ -2,8 +2,8 @@
 
 ## Step
 
-1. cd Lib; ./build.sh; ./link.sh;
-2. cd Demo/src; make;
+1. cd [Lib](Lib); ./build.sh; ./link.sh;
+2. cd [Demo/src](Demo/src); make;
 
 ## Source Code
 
