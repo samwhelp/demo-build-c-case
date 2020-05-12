@@ -1,6 +1,6 @@
 ---
 title: 範例
-nav_order: 90
+nav_order: 70
 ---
 
 ## 討論案例範例
