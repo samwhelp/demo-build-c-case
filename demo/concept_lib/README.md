@@ -8,3 +8,4 @@
 ## Reference
 
 * https://blog.gtwang.org/programming/howto-create-library-using-gcc/
+* http://www.study-area.org/cyril/opentools/opentools/x909.html
