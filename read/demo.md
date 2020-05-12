@@ -7,6 +7,7 @@ nav_order: 70
 
 | 範例 | 參考 |
 | --- | --- |
+| demo-build-c-case / [concept_basic](https://github.com/samwhelp/demo-build-c-case/tree/master/demo/concept_basic) | [GCC 編譯器基本使用教學與範例 - G. T. Wang](https://blog.gtwang.org/programming/gcc-comipler-basic-tutorial-examples/) |
 | demo-build-c-case / [concept_lib](https://github.com/samwhelp/demo-build-c-case/tree/master/demo/concept_lib) | [使用 gcc 自製 C/C++ 靜態、共享與動態載入函式庫教學 - G. T. Wang](https://blog.gtwang.org/programming/howto-create-library-using-gcc/) |
 
 
