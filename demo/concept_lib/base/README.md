@@ -7,7 +7,7 @@
 run [build.sh](build.sh)
 
 ``` sh
-$ ./build
+$ ./build.sh
 ```
 
 create one file
