@@ -6,8 +6,8 @@
 
 ## Demo
 
-* [concept_lib](concept_lib)
-* [case_001](case_001)
+* [concept_lib](demo/concept_lib)
+* [case_001](demo/case_001)
 
 
 ## Link
