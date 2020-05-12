@@ -8,6 +8,7 @@
 | [hello_cpp](hello_cpp) |
 | [hello_cpp_option_o](hello_cpp_option_o) |
 | [option_W](option_W) |
+| [option_D](option_D) |
 
 
 ## Reference
