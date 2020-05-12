@@ -10,6 +10,9 @@
 | [option_W](option_W) |
 | [option_D](option_D) |
 | [option_c](option_c) |
+| [option_I](option_I) |
+| [option_L](option_L) |
+| [option_l](option_l) |
 
 
 ## Reference
