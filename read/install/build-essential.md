@@ -19,3 +19,7 @@ parent: 安裝
 ``` sh
 $ sudo apt-get install build-essential
 ```
+
+## Reference
+
+* Ubuntu Community Help Wik / [MetaPackages](https://help.ubuntu.com/community/MetaPackages)
