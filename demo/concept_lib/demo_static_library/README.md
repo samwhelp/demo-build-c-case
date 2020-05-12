@@ -1,9 +1,8 @@
 
-## Demo
+## Step
 
-* [base](base)
-* [demo_static_library](demo_static_library)
-
+1. cd [lib](lib); ./build.sh;
+2. cd [app](app); ./build.sh; ./test.sh;
 
 ## Reference
 
