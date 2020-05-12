@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-rm -f dmeo
+rm -f demo
