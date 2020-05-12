@@ -1,6 +1,6 @@
 ---
 title: 範例
-nav_order: 70
+nav_order: 50
 ---
 
 ## 入門概念範例
