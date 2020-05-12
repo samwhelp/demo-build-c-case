@@ -4,10 +4,10 @@
 
 ### Build
 
-run [make](Makefile)
+run [build.sh](build.sh)
 
 ``` sh
-$ make
+$ ./build.sh
 ```
 
 create one file
@@ -55,10 +55,10 @@ $ ./ldd-test-not-found.sh
 show
 
 ```
-	linux-vdso.so.1 (0x00007ffca8db2000)
+	linux-vdso.so.1 (0x00007ffdf197c000)
 	libsum.so.1 => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f338a897000)
-	/lib64/ld-linux-x86-64.so.2 (0x00007f338aaad000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f66b9e13000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007f66ba029000)
 ```
 
 
@@ -73,10 +73,10 @@ $ ./ldd-test-found.sh
 show
 
 ```
-	linux-vdso.so.1 (0x00007ffc181ae000)
-	libsum.so.1 => ../../Lib/libsum.so.1 (0x00007f5d82182000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f5d81f73000)
-	/lib64/ld-linux-x86-64.so.2 (0x00007f5d8218e000)
+	linux-vdso.so.1 (0x00007ffd625ca000)
+	libsum.so.1 => ../lib/libsum.so.1 (0x00007fc5952ee000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc5950df000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007fc5952fa000)
 ```
 
 ## Reference

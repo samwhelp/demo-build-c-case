@@ -47,7 +47,7 @@ show
 run [ldd-test-not-found.sh](ldd-test-not-found.sh)
 
 ``` sh
-$ ./ldd-test-found.sh
+$ ./ldd-test-not-found.sh
 ```
 
 show
