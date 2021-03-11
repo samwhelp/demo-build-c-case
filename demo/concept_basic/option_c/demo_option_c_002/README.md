@@ -28,3 +28,4 @@ util_z
 
 * https://blog.gtwang.org/programming/gcc-comipler-basic-tutorial-examples/
 * http://www.study-area.org/cyril/opentools/opentools/x864.html
+* https://github.com/rxi/lite/blob/master/build.sh#L27
