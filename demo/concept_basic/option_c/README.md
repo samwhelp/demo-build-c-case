@@ -1,7 +1,11 @@
 
 ## Demo
 
-* openbox/obconf/prototype/[theme](https://github.com/samwhelp/note-ubuntu-20.04/tree/gh-pages/demo/explore/openbox/obconf/prototype/theme)
+| Demo |
+| --- |
+| [demo_option_c_001](demo_option_c_001) |
+| openbox/obconf/prototype/[theme](https://github.com/samwhelp/note-ubuntu-20.04/tree/gh-pages/demo/explore/openbox/obconf/prototype/theme) |
+
 
 ## Reference
 
